@@ -13,6 +13,9 @@ export default function HomePage() {
             <Link className="button primary" href="/checkout?source=homepage">
               Open Whop checkout
             </Link>
+            <a className="button secondary" href="/downloads/whop-extension-starter.zip" download>
+              Download Chrome extension
+            </a>
             <Link className="button secondary" href="/docs">
               Setup docs
             </Link>
